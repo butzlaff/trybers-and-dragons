@@ -1,6 +1,6 @@
-import EnergyType from '../types/EnergyType';
+// import EnergyType from '../types/EnergyType';
 
-// type EnergyType = 'stamina' | 'mana';
+type EnergyType = 'stamina' | 'mana';
 
 interface Energy {
   type_: EnergyType;
